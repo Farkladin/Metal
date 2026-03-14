@@ -1,0 +1,13 @@
+//
+//  module.modulemap
+//  LetsUseSwift
+//
+//  Created by Sora Sugiyama on 2/16/26.
+//
+
+module GameEngine {
+    header "Camera.hpp"
+    header "Renderer.hpp"
+    
+    export *
+}
