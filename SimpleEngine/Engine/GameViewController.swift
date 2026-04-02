@@ -101,6 +101,9 @@ class GameViewController: NSViewController
         loadModel(device: defaultDevice, name: "pillar")
         loadModel(device: defaultDevice, name: "floatingBox")
         loadModel(device: defaultDevice, name: "simpleFloor")
+        loadModel(device: defaultDevice, name: "monkeys")
+        loadModel(device: defaultDevice, name: "bulb")
+        loadModel(device: defaultDevice, name: "liquidGlass")
         
         let size = self.mtkView.drawableSize
         self.renderer.resize(width: Float(size.width), height: Float(size.height))
