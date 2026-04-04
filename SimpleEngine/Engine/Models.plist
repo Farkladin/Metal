@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>name</key>  <string>pillar</string>
+        <key>type</key>  <string>Default</string>
+    </dict>
+    <dict>
+        <key>name</key>  <string>floatingBox</string>
+        <key>type</key>  <string>Default</string>
+    </dict>
+    <dict>
+        <key>name</key>  <string>simpleFloor</string>
+        <key>type</key>  <string>Default</string>
+    </dict>
+    <dict>
+        <key>name</key>  <string>monkeys</string>
+        <key>type</key>  <string>Default</string>
+    </dict>
+    <dict>
+        <key>name</key>  <string>bulb</string>
+        <key>type</key>  <string>Bulb</string>
+    </dict>
+    <dict>
+        <key>name</key>  <string>liquidGlass</string>
+        <key>type</key>  <string>LiquidGlass</string>
+    </dict>
+</array>
+</plist>

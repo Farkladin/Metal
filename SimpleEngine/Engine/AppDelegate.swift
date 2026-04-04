@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Engine
+//  SimpleEngine
 //
-//  Created by Sora Sugiyama on 3/9/26.
+//  Created by Farkladin on 4/5/26.
 //
 
 import Cocoa
