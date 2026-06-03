@@ -165,7 +165,7 @@ kernel void raytracing_kernel(
     intersector<instancing, triangle_data> isect;
     isect.force_opacity(forced_opacity::opaque);
 
-    const int MAX_BOUNCES = 4;
+    const int MAX_BOUNCES = 10;
     for (int bounce = 0; bounce < MAX_BOUNCES; bounce++) {
         ray r;
         r.origin       = rayOrigin;
